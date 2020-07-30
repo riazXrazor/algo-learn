@@ -1,5 +1,5 @@
 ## Linked List : Pseudocode for Basic Operations
-## Video Tutorial: https://www.youtube.com/watch?v=njTh_OwMljA&index=2&t=1s&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8
+### Video Tutorial: https://www.youtube.com/watch?v=njTh_OwMljA&index=2&t=1s&list=PLLXdhg_r2hKA7DPDsunoDZ-Z769jWn4R8
 ### Insert
 
 ```text
